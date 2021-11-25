@@ -1,5 +1,6 @@
 # Firebase-Wordpress-Woocomerce
-Allow users to login/register simply with their mobile number. No more password or email required. You can easily use this plugin in your WordPress or in your WooCommerce store to keep track of your customer using their mobile number.
+Allow users to login/register simply with their mobile number. No more password or email required. 
+You can easily use this plugin in your WordPress or in your WooCommerce store to keep track of your customer using their mobile number.
 
 -Passwordless login with SMS/OTP
 -Firebase Phone Authentication
