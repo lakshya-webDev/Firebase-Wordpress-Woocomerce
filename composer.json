@@ -1,0 +1,11 @@
+{
+	"name": "wp-firebase-otp",
+	"description": "WP Firebase OTP",
+	"autoload": {
+		"classmap": [
+			"App",
+			"Admin"
+		]
+	},
+	"require": {}
+}
